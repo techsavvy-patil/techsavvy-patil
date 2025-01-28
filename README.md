@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">I enjoy solving complex problems and creating innovative solutions that can make a meaningful impact. Development allows me to combine my analytical skills with creativity to build applications and systems that enhance user experiences and improve efficiency.</h3>
 
+<img align="right" alt="coding" width="300" src="![image](https://github.com/user-attachments/assets/c2cece42-6f66-4dc4-8967-af3c235d733a)
+" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techsavvy-patil&label=Profile%20views&color=0e75b6&style=flat" alt="techsavvy-patil" /> </p>
 
 - 🌱 I’m currently learning **.Net Core,Al/ML,Data Analysis**

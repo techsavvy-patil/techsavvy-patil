@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **.Net Core,Al/ML,Data Analysis**
 
-- 📫 How to reach me **patilvaibhav032001@gmail.com**
+- 📫 How to reach me **73vaibhavpatil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
